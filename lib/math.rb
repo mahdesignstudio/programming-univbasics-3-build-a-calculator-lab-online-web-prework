@@ -7,7 +7,7 @@ addition(2,1)
 
 def subtraction(num1, num2)
 puts "hola"
-num2 - num1 
+num1 - num2 
 end
 subtraction(10,2)
 
