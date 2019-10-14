@@ -30,7 +30,8 @@ end
 modulo(5,2)
 
 def square_root(num)
-
+puts "fin"
+num.sqrt
 end
-
+square_root(64)
 
