@@ -6,10 +6,10 @@ addition(2,1)
 
 
 def subtraction(num1, num2)
-puts "hi"
+puts "hola"
 num2 - num1 
 end
-subtraction(2,1)
+subtraction(3,2)
 
 def division(num1, num2)
 
