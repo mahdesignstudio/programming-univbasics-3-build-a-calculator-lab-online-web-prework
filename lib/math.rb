@@ -1,7 +1,6 @@
-  def add
-     puts "Which numbers would you like to add?"
-     puts "The sum is... #{gets.to_i + gets.to_i}"
-   end
+def addition(num1, num2)
+
+end
 
 def subtraction(num1, num2)
 
