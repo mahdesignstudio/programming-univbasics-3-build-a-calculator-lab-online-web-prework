@@ -18,8 +18,10 @@ end
 division(10,2)
 
 def multiplication(num1, num2)
-
+puts "Ciao"
+num1 * num2 
 end
+multiplication(10,2)
 
 def modulo(num1, num2)
 
