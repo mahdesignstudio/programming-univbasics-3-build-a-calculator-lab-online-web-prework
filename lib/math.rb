@@ -24,8 +24,10 @@ end
 multiplication(10,2)
 
 def modulo(num1, num2)
-
+puts "Wepa"
+num1 % num2
 end
+modulo(5,2)
 
 def square_root(num)
 
