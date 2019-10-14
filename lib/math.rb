@@ -12,8 +12,10 @@ end
 subtraction(10,2)
 
 def division(num1, num2)
-
+puts "Bonjour"
+num1 / num2 
 end
+division(10,2)
 
 def multiplication(num1, num2)
 
