@@ -1,10 +1,7 @@
-def addition_function
-    puts "Which numbers would you like to add?"
-    @n1 = gets.chomp
-    @n2 = gets.chomp
-    @n1 + @n2 == @answer
-    puts "The sum is... #{@answer}"
-end
+  def add
+     puts "Which numbers would you like to add?"
+     puts "The sum is... #{gets.to_i + gets.to_i}"
+   end
 
 def subtraction(num1, num2)
 
